@@ -15,5 +15,25 @@ Terdapat enam kelas yang ada pada program latihan 4 ini. Pada projek ini terdapa
 2. **Hierarchical Inheritance** yang menghubungkan class yaitu :
     - Human dengan Mahasiswa dan dosen -> asumsi bahwa mahasiswa dan dosen merupakan bagian dari kelompok manusia
   
-
- 
+daftar atribut tiap kelas antara lain :
+1. Human
+   - nik
+   - nama
+   - gender
+2. Mahasiswa
+   - nim
+   - Fakultas
+3. Dosen
+   - nip
+   - fakultas
+   - pendidikan
+   - keahlian
+4. Prodi
+   - Kode
+   - namaProdi
+5. Sivitas
+   - asal
+   - email
+6. Course
+   - namaMK
+  
